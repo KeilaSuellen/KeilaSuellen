@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning desenvolvimento de sistema
+- 🌱 I’m currently learning  HTML e  CSS
 - 😄 Pronouns: Ela/Dela
 -->
 <div align="center">  
